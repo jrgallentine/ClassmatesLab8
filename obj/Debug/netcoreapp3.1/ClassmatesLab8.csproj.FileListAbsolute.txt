@@ -1,0 +1,12 @@
+C:\Users\jahhh\GrandCircus\ClassmatesLab8\bin\Debug\netcoreapp3.1\ClassmatesLab8.exe
+C:\Users\jahhh\GrandCircus\ClassmatesLab8\bin\Debug\netcoreapp3.1\ClassmatesLab8.deps.json
+C:\Users\jahhh\GrandCircus\ClassmatesLab8\bin\Debug\netcoreapp3.1\ClassmatesLab8.runtimeconfig.json
+C:\Users\jahhh\GrandCircus\ClassmatesLab8\bin\Debug\netcoreapp3.1\ClassmatesLab8.runtimeconfig.dev.json
+C:\Users\jahhh\GrandCircus\ClassmatesLab8\bin\Debug\netcoreapp3.1\ClassmatesLab8.dll
+C:\Users\jahhh\GrandCircus\ClassmatesLab8\bin\Debug\netcoreapp3.1\ClassmatesLab8.pdb
+C:\Users\jahhh\GrandCircus\ClassmatesLab8\obj\Debug\netcoreapp3.1\ClassmatesLab8.AssemblyInfoInputs.cache
+C:\Users\jahhh\GrandCircus\ClassmatesLab8\obj\Debug\netcoreapp3.1\ClassmatesLab8.AssemblyInfo.cs
+C:\Users\jahhh\GrandCircus\ClassmatesLab8\obj\Debug\netcoreapp3.1\ClassmatesLab8.csproj.CoreCompileInputs.cache
+C:\Users\jahhh\GrandCircus\ClassmatesLab8\obj\Debug\netcoreapp3.1\ClassmatesLab8.dll
+C:\Users\jahhh\GrandCircus\ClassmatesLab8\obj\Debug\netcoreapp3.1\ClassmatesLab8.pdb
+C:\Users\jahhh\GrandCircus\ClassmatesLab8\obj\Debug\netcoreapp3.1\ClassmatesLab8.genruntimeconfig.cache
